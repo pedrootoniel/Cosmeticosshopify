@@ -19,7 +19,6 @@
           "settings": {
             "text_align": "center",
             "logo_type": "image",
-            "logo": "shopify:\/\/shop_images\/logo-white.png",
             "logo_width": 128,
             "logo_text": "",
             "logo_icon": "",
@@ -46,7 +45,7 @@
           "type": "main-menu",
           "settings": {
             "show_language_currency_menu": false,
-            "menu": "home-5",
+            "menu": "main-menu",
             "show_megamenu": true,
             "show_resize_menu": false,
             "narrow_menu_item": true,
@@ -124,6 +123,7 @@
             "search_button_bg_color": "",
             "show_cart": true,
             "show_bg_cart": false,
+            "cart_item_color": "#ffffff",
             "cart_item_background": "#77714c",
             "style_function_group": "10",
             "margin_left": 28,
@@ -293,7 +293,6 @@
             "show_banner": true,
             "banner_width": "275px",
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner-1_ce589c3c-d48c-405d-9246-f01f8626f92a.jpg",
             "banner_title_1": "",
             "banner_text_1": "",
             "banner_url_1": "",
@@ -343,22 +342,18 @@
             "show_banner": true,
             "banner_width": "66%",
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner-2_b24812ad-c6e7-4568-a7d0-5f47fd5949c6.jpg",
             "banner_title_1": "New Release",
             "banner_text_1": "Shop Now",
             "banner_url_1": "shopify:\/\/collections",
             "show_banner_2": true,
-            "banner_2": "shopify:\/\/shop_images\/banner-3_2c145c7f-3a47-46b6-b159-67816d902d52.jpg",
             "banner_title_2": "Shop Outlet",
             "banner_text_2": "Shop Now",
             "banner_url_2": "shopify:\/\/collections",
             "show_banner_3": true,
-            "banner_3": "shopify:\/\/shop_images\/banner-5_2b275060-863c-48a1-b426-406d7fe3c2c0.jpg",
             "banner_title_3": "Accessories",
             "banner_text_3": "Shop Now",
             "banner_url_3": "shopify:\/\/collections",
             "show_banner_4": true,
-            "banner_4": "shopify:\/\/shop_images\/banner-6_7c70fe9a-0777-4c7d-87d6-53cf33d5bf57.jpg",
             "banner_title_4": "Men",
             "banner_text_4": "Shop Now",
             "banner_url_4": "shopify:\/\/collections",
@@ -396,7 +391,6 @@
             "show_banner": true,
             "banner_width": "275px",
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/banner-7_59df7613-4d2c-4285-8b3a-e4e3cb39c5be.jpg",
             "banner_title_1": "",
             "banner_text_1": "",
             "banner_url_1": "",
@@ -447,6 +441,7 @@
         "sections--15388788818056__6a90344b-aece-4758-a002-108d4f5abd37-16823248932856b891-9"
       ],
       "settings": {
+        "layout_style": "1",
         "container": "1370",
         "show_line_separator": false,
         "sticky_header_type": "up",
@@ -468,14 +463,13 @@
         "7de2266e-0cd4-4fda-9f09-06f75a17f944": {
           "type": "menu",
           "settings": {
-            "icon_color": "#FFFFFF"
+            "icon_color": "#ffffff"
           }
         },
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
             "logo_type": "image",
-            "logo_mobile": "shopify:\/\/shop_images\/logo-white.png",
             "logo_width_mobile": 120,
             "logo_text": "",
             "logo_icon": "",
@@ -490,14 +484,14 @@
         "163e2cb5-14f2-4af6-9ac3-77193c082f53": {
           "type": "search",
           "settings": {
-            "icon_color": "#FFFFFF",
+            "icon_color": "#ffffff",
             "header_search_style": "icon-2"
           }
         },
         "20dae707-64c0-4ea3-a05e-561cae9836d8": {
           "type": "customer",
           "settings": {
-            "icon_color": "#FFFFFF"
+            "icon_color": "#ffffff"
           }
         },
         "633f9dae-3f65-4bda-9ca8-9d3e231aaf9d": {
@@ -505,7 +499,7 @@
           "settings": {
             "cart_count_background": "#ffca28",
             "cart_count_color": "#000000",
-            "icon_color": "#FFFFFF"
+            "icon_color": "#ffffff"
           }
         }
       },
@@ -523,11 +517,11 @@
         "sticky_header_type": "up",
         "show_header_transparent_mobile": false,
         "color_modify": 20,
-        "color_modify_1_text": "#FFFFFF",
-        "color_modify_1_icon": "#FFFFFF",
+        "color_modify_1_text": "#ffffff",
+        "color_modify_1_icon": "#ffffff",
         "color_modify_2": 100,
-        "color_modify_2_text": "#FFFFFF",
-        "color_modify_2_icon": "#FFFFFF",
+        "color_modify_2_text": "#ffffff",
+        "color_modify_2_icon": "#ffffff",
         "padding_top": 0,
         "padding_bottom": 0
       }

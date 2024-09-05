@@ -17,7 +17,7 @@
           "settings": {
             "icon_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 50 50\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\">\n\t<path d=\"M 17 2 C 16.606 2 16.248891 2.2317969 16.087891 2.5917969 C 15.926891 2.9497969 15.991906 3.3700625 16.253906 3.6640625 L 24.253906 12.664062 C 24.442906 12.878062 24.715 13 25 13 C 25.285 13 25.557094 12.878063 25.746094 12.664062 L 33.746094 3.6640625 C 34.008094 3.3700625 34.073109 2.9497969 33.912109 2.5917969 C 33.751109 2.2317969 33.394 2 33 2 L 17 2 z M 5 16 C 4.447 16 4 16.447 4 17 L 4 47 C 4 47.553 4.447 48 5 48 L 45 48 C 45.553 48 46 47.553 46 47 L 46 17 C 46 16.447 45.553 16 45 16 L 5 16 z M 19 22 L 31 22 C 31.553 22 32 22.447 32 23 C 32 23.553 31.553 24 31 24 L 19 24 C 18.447 24 18 23.553 18 23 C 18 22.447 18.447 22 19 22 z M 9 31 L 13.388672 31 C 15.684672 31 17.097656 32.341297 17.097656 34.529297 C 17.097656 35.932297 16.402219 37.151297 15.199219 37.654297 L 17.400391 42 L 14.923828 42 L 12.976562 38.013672 L 11.1875 38.013672 L 11.1875 42 L 9 42 L 9 31 z M 19.5 31 L 22.0625 31 L 24.935547 38.394531 L 25.064453 38.394531 L 27.943359 31 L 30.5 31 L 30.5 42 L 28.5 42 L 28.5 34.642578 L 28.369141 34.642578 L 25.726562 41.367188 L 24.279297 41.367188 L 21.630859 34.642578 L 21.5 34.642578 L 21.5 42 L 19.5 42 L 19.5 31 z M 35.800781 31 L 38.371094 31 L 42 42 L 39.630859 42 L 38.841797 39.376953 L 35.169922 39.376953 L 34.365234 42 L 32.171875 42 L 35.800781 31 z M 11.1875 32.859375 L 11.1875 36.244141 L 13.105469 36.244141 C 14.206469 36.244141 14.851562 35.619547 14.851562 34.560547 C 14.852562 33.515547 14.171938 32.859375 13.085938 32.859375 L 11.1875 32.859375 z M 36.951172 33.287109 L 35.640625 37.601562 L 38.378906 37.601562 L 37.082031 33.287109 L 36.951172 33.287109 z\"><\/path>\n<\/svg>",
             "heading": "",
-            "sub_heading": "Free Return in 30 days",
+            "sub_heading": "Entrega rápida",
             "link_title": "",
             "link": ""
           }
@@ -27,7 +27,7 @@
           "settings": {
             "icon_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\">\n\t<path d=\"M 0 5 L 0 18 L 4 18 C 4 19.657 5.343 21 7 21 C 8.657 21 10 19.657 10 18 L 16 18 C 16 19.657 17.343 21 19 21 C 20.657 21 22 19.657 22 18 L 24 18 L 24 13 L 20.998047 7 L 17 7 L 17 5 L 0 5 z M 17 8.75 L 19.917969 8.75 L 22.042969 13 L 17 13 L 17 8.75 z M 3 9 L 5 9 L 5 10 L 4 10 L 4 11 L 5 11 L 5 12 L 4 12 L 4 14 L 3 14 L 3 9 z M 6 9 L 8 9 L 8 10 L 7 10 L 7 14 L 6 14 L 6 9 z M 9 9 L 11 9 L 11 10 L 10 10 L 10 11 L 11 11 L 11 12 L 10 12 L 10 13 L 11 13 L 11 14 L 9 14 L 9 9 z M 12 9 L 14 9 L 14 10 L 13 10 L 13 11 L 14 11 L 14 12 L 13 12 L 13 13 L 14 13 L 14 14 L 13 14 L 12 14 L 12 9 z M 7 16.75 C 7.689 16.75 8.25 17.311 8.25 18 C 8.25 18.689 7.689 19.25 7 19.25 C 6.311 19.25 5.75 18.689 5.75 18 C 5.75 17.311 6.311 16.75 7 16.75 z M 19 16.75 C 19.689 16.75 20.25 17.311 20.25 18 C 20.25 18.689 19.689 19.25 19 19.25 C 18.311 19.25 17.75 18.689 17.75 18 C 17.75 17.311 18.311 16.75 19 16.75 z\"><\/path>\n<\/svg>",
             "heading": "",
-            "sub_heading": "Free shipping over the world",
+            "sub_heading": "FRETE GRÁTIS EM COMPRAS ACIMA DE R$ 350,00",
             "link_title": "",
             "link": ""
           }
@@ -37,7 +37,7 @@
           "settings": {
             "icon_svg": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 30 30\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\">\n\t<path d=\"M 13 2 C 11.35503 2 10 3.3550302 10 5 C 10 5.3518425 10.07394 5.6851085 10.1875 6 L 5 6 C 3.895 6 3 6.895 3 8 L 3 10 L 27 10 L 27 8 C 27 6.895 26.105 6 25 6 L 19.8125 6 C 19.92606 5.6851085 20 5.3518425 20 5 C 20 3.3550302 18.64497 2 17 2 C 16.231416 2 15.533353 2.3041249 15 2.7871094 C 14.466647 2.3041249 13.768584 2 13 2 z M 13 4 C 13.56503 4 14 4.4349698 14 5 L 14 6 L 13 6 C 12.43497 6 12 5.5650302 12 5 C 12 4.4349698 12.43497 4 13 4 z M 17 4 C 17.56503 4 18 4.4349698 18 5 C 18 5.5650302 17.56503 6 17 6 L 16 6 L 16 5 C 16 4.4349698 16.43497 4 17 4 z M 4 12 L 4 25 C 4 26.105 4.895 27 6 27 L 14 27 L 14 12 L 4 12 z M 16 12 L 16 27 L 24 27 C 25.105 27 26 26.105 26 25 L 26 12 L 16 12 z\"><\/path>\n<\/svg>",
             "heading": "",
-            "sub_heading": "gift packaging on your ideas",
+            "sub_heading": "10% Off na primeira compra",
             "link_title": "",
             "link": ""
           }
@@ -67,6 +67,7 @@
         "block_arrows": true,
         "layout_style": "1",
         "content_style": "2",
+        "icon_ratio": "medium",
         "enable_border": true,
         "background_color": "#101010",
         "text_color": "#cecece",
@@ -94,14 +95,15 @@
         "164428439287a87a12-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-1_9b52ef58-18e0-447c-a150-5ee777ef7b3e.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/banner-1-mobile.jpg",
             "title": "",
+            "subtitle": "",
             "text": "",
             "btn": "2",
             "btn_text": "",
             "link": "",
+            "container_content": "1570",
             "position": "left",
+            "position_y": "middle",
             "alignment": "left",
             "lookbook": false,
             "product_1": "",
@@ -122,6 +124,7 @@
             "show_background_overlay": false,
             "transparent_button": false,
             "background_color": "",
+            "block_content_bg": "",
             "background_overlay": "#000000",
             "text_color": "#ffffff",
             "title_color": "#ffffff",
@@ -138,14 +141,15 @@
         "13e7dc82-511e-450e-99f7-40be5c0edb5b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-2_6a28959e-bdc2-4493-b06c-32ddc79c8a6a.gif",
-            "mobile_image": "shopify:\/\/shop_images\/banner-4-mobile.gif",
             "title": "",
+            "subtitle": "",
             "text": "",
             "btn": "2",
             "btn_text": "",
             "link": "",
+            "container_content": "1570",
             "position": "left",
+            "position_y": "middle",
             "alignment": "left",
             "lookbook": false,
             "product_1": "",
@@ -166,6 +170,7 @@
             "show_background_overlay": false,
             "transparent_button": false,
             "background_color": "",
+            "block_content_bg": "",
             "background_overlay": "#000000",
             "text_color": "#ffffff",
             "title_color": "#ffffff",
@@ -198,6 +203,7 @@
         "block_title_align": "center",
         "block_layout": "3",
         "block_content": "absolute",
+        "block_content_style": "1",
         "block_fade": true,
         "block_autoplay": true,
         "block_autoplay_time": 5,
@@ -219,7 +225,6 @@
           "type": "collection",
           "settings": {
             "collection": "best-sellers",
-            "image": "shopify:\/\/shop_images\/banner-1_8a3e1c35-fffb-42e2-ad7a-d62a37e53d5b.jpg",
             "title": "clothing",
             "text": "Tights, Shorts, Active Wear, Underwears and more",
             "btn": "1",
@@ -230,7 +235,6 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrival",
-            "image": "shopify:\/\/shop_images\/banner-2_97f36d7c-6bec-4425-98b9-37e888c57502.jpg",
             "title": "accessories",
             "text": "Bags, Boxing, Cardio Training, Swimming and more",
             "btn": "1",
@@ -241,7 +245,6 @@
           "type": "collection",
           "settings": {
             "collection": "new-in",
-            "image": "shopify:\/\/shop_images\/banner-3_138d430c-6bcf-4791-a0f7-97cfae4561d8.jpg",
             "title": "footwear",
             "text": "Running Shoes, Training Shoes, Sneakers and more",
             "btn": "1",
@@ -256,6 +259,7 @@
       ],
       "settings": {
         "show_featured_collection": true,
+        "block_bg": "",
         "container": "1370",
         "padding_top": 84,
         "padding_bottom": 44,
@@ -263,7 +267,7 @@
         "padding_bottom_tablet": 34,
         "padding_top_mobile": 34,
         "padding_bottom_mobile": 30,
-        "block_title": "featured categories",
+        "block_title": "Categorias",
         "block_text": "",
         "btn_header": "1",
         "button_title": "",
@@ -278,6 +282,8 @@
         "block_show": "4",
         "block_dots": false,
         "block_arrows": true,
+        "block_dots_mobi": false,
+        "block_arrows_mobi": true,
         "layout_style": "2",
         "show_featured_collection_absolute": false,
         "transparent_button": false,
@@ -308,7 +314,7 @@
         "padding_bottom_tablet": 40,
         "padding_top_mobile": 30,
         "padding_bottom_mobile": 30,
-        "block_title": "New Arrives",
+        "block_title": "Conjuntos calças + cropped",
         "block_text": "",
         "block_title_align": "center",
         "block_layout": "slider",
@@ -332,8 +338,7 @@
           "type": "collection",
           "settings": {
             "collection": "sale",
-            "image": "shopify:\/\/shop_images\/banner-5_b13f6afe-5aed-4e8f-a97c-fcb153be0e0e.jpg",
-            "title": "yoga clothing",
+            "title": "Roupas de ioga",
             "text": "Tights, Shorts, Active Wear, Underwears, Swimmingwear and more",
             "btn": "1",
             "btn_text": ""
@@ -343,9 +348,8 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-6_5cb9f46e-e426-4a4d-947b-8777b4c24daa.jpg",
-            "title": "tech equipments",
-            "text": "Fintess Accessories, Headphones, Heart Rate Monitors and more",
+            "title": "Equipamentos Fitness",
+            "text": "Acessórios de fitness, fones de ouvido, monitores de frequência cardíaca e muito mais",
             "btn": "1",
             "btn_text": ""
           }
@@ -357,6 +361,7 @@
       ],
       "settings": {
         "show_featured_collection": true,
+        "block_bg": "",
         "container": "1370",
         "padding_top": 49,
         "padding_bottom": 80,
@@ -379,6 +384,8 @@
         "block_show": "4",
         "block_dots": false,
         "block_arrows": true,
+        "block_dots_mobi": false,
+        "block_arrows_mobi": true,
         "layout_style": "2",
         "show_featured_collection_absolute": false,
         "transparent_button": true,
@@ -454,14 +461,15 @@
         "padding_bottom_mobile": 10,
         "container": "full",
         "style": "1",
-        "image": "shopify:\/\/shop_images\/banner-6_4fa35560-e3a3-49b0-97f1-9a92ef5d0db7.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/banner-6-mobile.jpg",
-        "subtitle": "best selling",
-        "title": "women's",
-        "description": "Emo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione volup\ntatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
-        "label": "Quick shop:",
-        "link_title": "SHOP ALL",
+        "subtitle": "Mais vendidos",
+        "title": "Mulheres",
+        "description": "Seja para levantar peso, correr ou praticar yoga, sinta-se confiante e empoderada em roupas que acompanham seu ritmo e potencializam sua performance.",
+        "label": "Loja rápida:",
+        "link_title": "VER COLEÇÕES",
         "link": "",
+        "button_style": "link",
+        "transparent_button": false,
+        "button_width": 300,
         "banner_position": "right",
         "alignment": "center",
         "title_font": "font_2",
@@ -473,6 +481,10 @@
         "sub_title_font_size": 18,
         "sub_title_font_weight": "700",
         "sub_title_text_transform": "uppercase",
+        "link_font_size": 16,
+        "link_font_size_mobile": 16,
+        "link_font_weight": "700",
+        "link_text_transform": "uppercase",
         "title_color": "#202020",
         "text_color": "#505050",
         "btn_bg": "#ffffff",
@@ -516,8 +528,7 @@
         "1644310338bf3c2dd9-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-8.gif",
-            "mobile_image": "shopify:\/\/shop_images\/banner-1-mobile_c79e77ef-9e03-48cd-a2a4-b4dcac9ec86f.jpg",
+            "image_behavior": "none",
             "title": "",
             "text": "",
             "subtitle": "",
@@ -557,7 +568,8 @@
         "padding_bottom_tablet": 60,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 50,
-        "padding_top_section": 20
+        "padding_top_section": 20,
+        "show_hoverImage": false
       }
     },
     "1644390174a9658784": {
@@ -617,14 +629,15 @@
         "padding_bottom_mobile": 10,
         "container": "full",
         "style": "1",
-        "image": "shopify:\/\/shop_images\/banner-5_fc6dbe66-3124-4480-a751-8e98476ce38a.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/banner-5-monile.jpg",
-        "subtitle": "best selling",
-        "title": "men's",
-        "description": "Emo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione volup\ntatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
-        "label": "Quick shop:",
-        "link_title": "SHOP ALL",
+        "subtitle": "Mais vendidos",
+        "title": "Homens",
+        "description": "Nossas roupas fitness são projetadas para proporcionar total liberdade de movimento, mantendo seu corpo fresco e confortável até nos exercícios mais intensos.",
+        "label": "Loja rápida:",
+        "link_title": "Ver coleção",
         "link": "",
+        "button_style": "link",
+        "transparent_button": false,
+        "button_width": 300,
         "banner_position": "right",
         "alignment": "center",
         "title_font": "font_2",
@@ -636,6 +649,10 @@
         "sub_title_font_size": 18,
         "sub_title_font_weight": "700",
         "sub_title_text_transform": "uppercase",
+        "link_font_size": 16,
+        "link_font_size_mobile": 16,
+        "link_font_weight": "700",
+        "link_text_transform": "uppercase",
         "title_color": "#202020",
         "text_color": "#505050",
         "btn_bg": "#ffffff",
@@ -679,105 +696,90 @@
         "1644375707d9913c75-0": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-1_443d7883-57c6-434b-81bb-3e13f8aedcfb.jpg",
             "link": "shopify:\/\/pages\/brands"
           }
         },
         "1644375707d9913c75-1": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-2_775e2896-9e11-44be-93c9-36dd82714a1e.jpg",
             "link": ""
           }
         },
         "1644375707d9913c75-2": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-3_af739a68-73d5-4aa9-9f2c-1e9afebb9ecf.jpg",
             "link": ""
           }
         },
         "1644375707d9913c75-3": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-4_e2ba99a3-4636-48e3-a10c-4668a793d5bc.jpg",
             "link": ""
           }
         },
         "1644375707d9913c75-4": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-5_9bef7126-9f25-401f-8de3-9807d3517853.jpg",
             "link": ""
           }
         },
         "1644375707d9913c75-5": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-6_df4bcc22-98f7-4634-88f8-4c06a7932428.jpg",
             "link": ""
           }
         },
         "1aa75f63-3f12-4287-a0be-3cf90d18a527": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-7_2de95b94-3232-41da-ac16-da274be47f8f.jpg",
             "link": ""
           }
         },
         "67f5d13e-0b9d-4182-a56a-1e32b33295c8": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-8_60ae3b2b-8df6-45e2-af58-e053fb0a7ffc.jpg",
             "link": ""
           }
         },
         "377668b4-5550-49a7-a98b-eed36c206f02": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-9_a61302a7-b9c5-4d3d-bd22-6cc80c68f349.jpg",
             "link": ""
           }
         },
         "30853542-e489-403f-bbde-240b186e6e22": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-10_74a193e6-5667-4042-a8db-0fad26933943.jpg",
             "link": ""
           }
         },
         "09b08e83-355e-4e31-86bc-353d25a2c7c3": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-11.jpg",
             "link": ""
           }
         },
         "0ba98ed2-9e30-47d4-9c3c-9876ee450123": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-12.jpg",
             "link": ""
           }
         },
         "e6803206-3a13-4e62-9c3d-4da725ec98ad": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-13.jpg",
             "link": ""
           }
         },
         "c10befa7-d650-4321-88ee-d9fe16a1c70b": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-14.jpg",
             "link": ""
           }
         },
         "0f5891b1-9317-4512-9de5-faedd0f64388": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-15.jpg",
             "link": ""
           }
         }
@@ -831,8 +833,7 @@
         "1644369524da22c269-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-3_fe81b464-a98c-4787-af17-84ea321a722a.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/banner-3-mobile_ef7dca39-7ea7-4a42-ae1a-d95471ae4964.jpg",
+            "image_behavior": "none",
             "title": "",
             "text": "",
             "subtitle": "",
@@ -872,7 +873,8 @@
         "padding_bottom_tablet": 40,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 30,
-        "padding_top_section": 20
+        "padding_top_section": 20,
+        "show_hoverImage": false
       }
     },
     "1644306543e69cba1d": {
@@ -882,7 +884,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-1_d5801890-2d24-4001-9df9-6f3151acc9e8.jpg",
             "title": "footwear",
             "text": "",
             "btn": "1",
@@ -893,7 +894,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-2_5ad7cccc-7c74-4f62-9e75-896b6c0c4d38.jpg",
             "title": "clothing",
             "text": "",
             "btn": "1",
@@ -904,7 +904,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-3_5d2edd08-c0a8-4028-907b-0075839b1dfe.jpg",
             "title": "fitness",
             "text": "",
             "btn": "1",
@@ -915,7 +914,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-4_02df51ac-aebd-4e84-b2d7-9ff1d374d8ca.jpg",
             "title": "kickboxing",
             "text": "",
             "btn": "1",
@@ -926,7 +924,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-5_bf76802a-df4a-443e-8408-427c674d1cb0.jpg",
             "title": "tech",
             "text": "",
             "btn": "1",
@@ -937,7 +934,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-6_a2416b92-7657-4169-ae50-7f71db3c05a1.jpg",
             "title": "running",
             "text": "",
             "btn": "1",
@@ -948,7 +944,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-7_614357ac-d706-4d34-a231-272c53701a4a.jpg",
             "title": "womenâ€™s",
             "text": "",
             "btn": "1",
@@ -959,7 +954,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-8_410af455-6ca8-49e1-b816-33b04925c25b.jpg",
             "title": "menâ€™s",
             "text": "",
             "btn": "1",
@@ -970,7 +964,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-9_e887346a-0928-4f77-abe0-c87a0d2fa11c.jpg",
             "title": "accessories",
             "text": "",
             "btn": "1",
@@ -981,7 +974,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-10_ab538ea3-9f1f-4b2b-b443-ce1762219650.jpg",
             "title": "equipments",
             "text": "",
             "btn": "1",
@@ -1003,6 +995,7 @@
       ],
       "settings": {
         "show_featured_collection": true,
+        "block_bg": "",
         "container": "1370",
         "padding_top": 0,
         "padding_bottom": 79,
@@ -1025,6 +1018,8 @@
         "block_show": "4",
         "block_dots": false,
         "block_arrows": true,
+        "block_dots_mobi": false,
+        "block_arrows_mobi": true,
         "layout_style": "2",
         "show_featured_collection_absolute": false,
         "transparent_button": false,
@@ -1049,14 +1044,15 @@
         "1644315369c6c6bcad-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-7.gif",
-            "mobile_image": "shopify:\/\/shop_images\/banner-7-mobile.gif",
             "title": "",
+            "subtitle": "",
             "text": "",
             "btn": "2",
             "btn_text": "",
             "link": "",
+            "container_content": "1570",
             "position": "left",
+            "position_y": "middle",
             "alignment": "left",
             "lookbook": false,
             "product_1": "",
@@ -1077,6 +1073,7 @@
             "show_background_overlay": false,
             "transparent_button": false,
             "background_color": "",
+            "block_content_bg": "",
             "background_overlay": "#000000",
             "text_color": "#ffffff",
             "title_color": "#ffffff",
@@ -1108,6 +1105,7 @@
         "block_title_align": "center",
         "block_layout": "1",
         "block_content": "absolute",
+        "block_content_style": "1",
         "block_fade": true,
         "block_autoplay": true,
         "block_autoplay_time": 5,
@@ -1129,7 +1127,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-7_4c7792bd-6774-460a-a547-70dbd69c5ed7.jpg",
             "title": "bundle purchase",
             "text": "Tights, Shorts, Active Wear, Underwears, Swimmingwear and more",
             "btn": "1",
@@ -1140,7 +1137,6 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "image": "shopify:\/\/shop_images\/banner-8_c09c2c90-39d8-401d-a96c-b1228eab2e58.jpg",
             "title": "Sale up to 40%",
             "text": "Fintess Accessories, Headphones, Heart Rate Monitors and more",
             "btn": "1",
@@ -1154,6 +1150,7 @@
       ],
       "settings": {
         "show_featured_collection": true,
+        "block_bg": "",
         "container": "1370",
         "padding_top": 0,
         "padding_bottom": 70,
@@ -1176,6 +1173,8 @@
         "block_show": "4",
         "block_dots": false,
         "block_arrows": true,
+        "block_dots_mobi": false,
+        "block_arrows_mobi": true,
         "layout_style": "2",
         "show_featured_collection_absolute": false,
         "transparent_button": false,
@@ -1229,8 +1228,7 @@
         "164437108001858760-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-4.gif",
-            "mobile_image": "shopify:\/\/shop_images\/banner-4-mobile.gif",
+            "image_behavior": "none",
             "title": "",
             "text": "",
             "subtitle": "",
@@ -1270,7 +1268,8 @@
         "padding_bottom_tablet": 35,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 35,
-        "padding_top_section": 20
+        "padding_top_section": 20,
+        "show_hoverImage": false
       }
     },
     "1629470537658e335f": {
@@ -1279,7 +1278,6 @@
         "1629470537658e335f-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-1.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1287,7 +1285,6 @@
         "1629470537658e335f-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-2_b9e7e751-8046-414f-b732-51e4583928ed.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1295,7 +1292,6 @@
         "1629470537658e335f-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-3_1c30613b-1ff9-44ae-af6c-e81d5c0db373.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1303,7 +1299,6 @@
         "1629470537658e335f-3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-4_4dcbf635-6657-407c-9229-37f5ae8f2712.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1311,7 +1306,6 @@
         "ef8f9267-ec4c-47c4-b083-99467816748f": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-5_53eec49c-19b8-4436-b8fe-d79a24a007f4.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1319,7 +1313,6 @@
         "44e82018-14ad-4aba-8a03-ef74bf609475": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-6.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1327,7 +1320,6 @@
         "84a3787c-a4d2-41cb-8690-8734cefd1efe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-7.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1335,7 +1327,6 @@
         "0f46e3f5-6e44-4ffb-8d36-af0ae37ddfc4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner-8.jpg",
             "btn_text": "",
             "link": ""
           }
