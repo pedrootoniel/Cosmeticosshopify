@@ -96,6 +96,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/QUeima_de_estoque.png",
+            "mobile_image": "shopify:\/\/shop_images\/QUeima_de_estoque1.png",
             "title": "",
             "subtitle": "",
             "text": "",
