@@ -227,8 +227,9 @@
           "type": "collection",
           "settings": {
             "collection": "best-sellers",
-            "title": "clothing",
-            "text": "Tights, Shorts, Active Wear, Underwears and more",
+            "image": "shopify:\/\/shop_images\/Conectando_Marcas_e_Publicos_com_Criatividade_e_Inovacao.png",
+            "title": "Cropped + legging",
+            "text": "COLEÇÃO",
             "btn": "1",
             "btn_text": ""
           }
@@ -237,8 +238,9 @@
           "type": "collection",
           "settings": {
             "collection": "new-arrival",
-            "title": "accessories",
-            "text": "Bags, Boxing, Cardio Training, Swimming and more",
+            "image": "shopify:\/\/shop_images\/Conectando_Marcas_e_Publicos_com_Criatividade_e_Inovacao_6c1a58a3-3d51-4ba2-8dd9-ce45466f7553.png",
+            "title": "CROPPED + SHORT",
+            "text": "COLEÇÃO",
             "btn": "1",
             "btn_text": ""
           }
