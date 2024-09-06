@@ -1272,6 +1272,7 @@
         "1629470537658e335f-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-1.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1279,6 +1280,7 @@
         "1629470537658e335f-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-4_4dcbf635-6657-407c-9229-37f5ae8f2712.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1286,6 +1288,7 @@
         "1629470537658e335f-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-6.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1293,6 +1296,7 @@
         "1629470537658e335f-3": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-2_b9e7e751-8046-414f-b732-51e4583928ed.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1300,6 +1304,7 @@
         "ef8f9267-ec4c-47c4-b083-99467816748f": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-7.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1307,6 +1312,7 @@
         "44e82018-14ad-4aba-8a03-ef74bf609475": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-5_53eec49c-19b8-4436-b8fe-d79a24a007f4.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1314,6 +1320,7 @@
         "84a3787c-a4d2-41cb-8690-8734cefd1efe": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-3_1c30613b-1ff9-44ae-af6c-e81d5c0db373.jpg",
             "btn_text": "",
             "link": ""
           }
@@ -1321,6 +1328,7 @@
         "0f46e3f5-6e44-4ffb-8d36-af0ae37ddfc4": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/banner-8.jpg",
             "btn_text": "",
             "link": ""
           }
