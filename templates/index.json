@@ -342,9 +342,10 @@
         "16443055989087e7f1-0": {
           "type": "collection",
           "settings": {
-            "collection": "sale",
+            "collection": "conjunto-cropped-e-calca-legging",
+            "image": "shopify:\/\/shop_images\/banner-5_670x_85e3b1c3-ac71-42e6-90f9-66f2c3058ac8.jpg",
             "title": "Roupas de ioga",
-            "text": "Tights, Shorts, Active Wear, Underwears, Swimmingwear and more",
+            "text": "Meias, shorts, roupas esportivas, roupas íntimas, roupas de banho e muito mais",
             "btn": "1",
             "btn_text": ""
           }
@@ -352,7 +353,8 @@
         "16443055989087e7f1-1": {
           "type": "collection",
           "settings": {
-            "collection": "all",
+            "collection": "conjunto-cropped-e-calca-legging",
+            "image": "shopify:\/\/shop_images\/banner-6_670x_279577c3-bbf9-4c90-89f1-3f958f33f55a.jpg",
             "title": "Equipamentos Fitness",
             "text": "Acessórios de fitness, fones de ouvido, monitores de frequência cardíaca e muito mais",
             "btn": "1",
@@ -374,7 +376,7 @@
         "padding_bottom_tablet": 60,
         "padding_top_mobile": 39,
         "padding_bottom_mobile": 40,
-        "block_title": "deals for you",
+        "block_title": "ofertas para você",
         "block_text": "",
         "btn_header": "1",
         "button_title": "",
@@ -415,35 +417,21 @@
         "1644468425e86ccc01-0": {
           "type": "link",
           "settings": {
-            "link_text": "Shoes",
+            "link_text": "Bermudas",
             "link": "shopify:\/\/collections\/all"
           }
         },
         "1644468425e86ccc01-1": {
           "type": "link",
           "settings": {
-            "link_text": "Clothings",
+            "link_text": "Calças",
             "link": "shopify:\/\/collections\/all"
           }
         },
         "1644468425e86ccc01-2": {
           "type": "link",
           "settings": {
-            "link_text": "Sports",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
-        "c86334a3-7b2a-4a08-afa8-fe9350daa56e": {
-          "type": "link",
-          "settings": {
-            "link_text": "Accessories",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
-        "83a32ba1-4bb6-4423-9a37-8516d3793a97": {
-          "type": "link",
-          "settings": {
-            "link_text": "Deals",
+            "link_text": "Calçados",
             "link": "shopify:\/\/collections\/all"
           }
         }
@@ -451,9 +439,7 @@
       "block_order": [
         "1644468425e86ccc01-0",
         "1644468425e86ccc01-1",
-        "1644468425e86ccc01-2",
-        "c86334a3-7b2a-4a08-afa8-fe9350daa56e",
-        "83a32ba1-4bb6-4423-9a37-8516d3793a97"
+        "1644468425e86ccc01-2"
       ],
       "settings": {
         "show_banner_with_custom_link": true,
