@@ -570,35 +570,21 @@
         "1644390173f374e519-0": {
           "type": "link",
           "settings": {
-            "link_text": "Shoes",
+            "link_text": "Blusas",
             "link": "shopify:\/\/collections\/all"
           }
         },
         "1644390173f374e519-2": {
           "type": "link",
           "settings": {
-            "link_text": "Clothings",
+            "link_text": "Calças",
             "link": "shopify:\/\/collections\/all"
           }
         },
         "8321a037-5561-4bb1-acad-00b87b586b71": {
           "type": "link",
           "settings": {
-            "link_text": "Sports",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
-        "ae57a162-3712-442c-8919-38b3e22b3127": {
-          "type": "link",
-          "settings": {
-            "link_text": "Accessories",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
-        "0dbd5ce3-9fda-4c7b-a6bb-74b896b37ffc": {
-          "type": "link",
-          "settings": {
-            "link_text": "Deals",
+            "link_text": "Bermudas",
             "link": "shopify:\/\/collections\/all"
           }
         }
@@ -606,9 +592,7 @@
       "block_order": [
         "1644390173f374e519-0",
         "1644390173f374e519-2",
-        "8321a037-5561-4bb1-acad-00b87b586b71",
-        "ae57a162-3712-442c-8919-38b3e22b3127",
-        "0dbd5ce3-9fda-4c7b-a6bb-74b896b37ffc"
+        "8321a037-5561-4bb1-acad-00b87b586b71"
       ],
       "settings": {
         "show_banner_with_custom_link": true,
