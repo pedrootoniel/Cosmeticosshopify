@@ -930,6 +930,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/7_4d5bc9b5-1c78-4652-9847-438d55fc04d8.png",
             "title": "womenâ€™s",
             "text": "",
             "btn": "1",
@@ -940,6 +941,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/8_0b2cf3e9-2025-42f5-8340-7610ab4a61d6.png",
             "title": "menâ€™s",
             "text": "",
             "btn": "1",
@@ -950,6 +952,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/9_fa5bd727-b921-400f-b162-b56ff547cbea.png",
             "title": "accessories",
             "text": "",
             "btn": "1",
@@ -960,6 +963,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/8_0b2cf3e9-2025-42f5-8340-7610ab4a61d6.png",
             "title": "equipments",
             "text": "",
             "btn": "1",
@@ -1030,6 +1034,7 @@
         "1644315369c6c6bcad-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/VER_COLECOES.png",
             "title": "",
             "subtitle": "",
             "text": "",
