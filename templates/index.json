@@ -864,6 +864,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/1_ebe76f9e-752f-4407-901b-d1594ea0344f.png",
             "title": "footwear",
             "text": "",
             "btn": "1",
@@ -874,6 +875,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/2_e69276ea-6589-4be3-abfe-d3a5763aad02.png",
             "title": "clothing",
             "text": "",
             "btn": "1",
@@ -884,6 +886,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/3.png",
             "title": "fitness",
             "text": "",
             "btn": "1",
@@ -894,6 +897,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/4_e5d37855-8670-40f8-a135-69259e049539.png",
             "title": "kickboxing",
             "text": "",
             "btn": "1",
@@ -904,6 +908,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/5_7532d7c1-83e7-43d2-9b54-6f2f4722ae15.png",
             "title": "tech",
             "text": "",
             "btn": "1",
@@ -914,6 +919,7 @@
           "type": "collection",
           "settings": {
             "collection": "all",
+            "image": "shopify:\/\/shop_images\/6.png",
             "title": "running",
             "text": "",
             "btn": "1",
