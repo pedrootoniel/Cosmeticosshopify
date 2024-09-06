@@ -249,8 +249,9 @@
           "type": "collection",
           "settings": {
             "collection": "new-in",
-            "title": "footwear",
-            "text": "Running Shoes, Training Shoes, Sneakers and more",
+            "image": "shopify:\/\/shop_images\/Conectando_Marcas_e_Publicos_com_Criatividade_e_Inovacao_6d76896d-d4b3-4829-a8f9-f9200da1367a.png",
+            "title": "Calçados Fitness",
+            "text": "COLEÇÃO",
             "btn": "1",
             "btn_text": ""
           }
