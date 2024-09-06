@@ -1118,8 +1118,9 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "title": "bundle purchase",
-            "text": "Tights, Shorts, Active Wear, Underwears, Swimmingwear and more",
+            "image": "shopify:\/\/shop_images\/Design_sem_nome.png",
+            "title": "compra de pacote",
+            "text": "Meias, shorts, roupas esportivas, roupas íntimas, roupas de banho e muito mais",
             "btn": "1",
             "btn_text": ""
           }
@@ -1128,8 +1129,9 @@
           "type": "collection",
           "settings": {
             "collection": "all",
-            "title": "Sale up to 40%",
-            "text": "Fintess Accessories, Headphones, Heart Rate Monitors and more",
+            "image": "shopify:\/\/shop_images\/Design_sem_nome_0795fb7a-8a3b-45ac-a182-cdabff1ea7d3.png",
+            "title": "PRODUTO COM 40%",
+            "text": "Fintess, fones de ouvido, monitores de frequência cardíaca e muito mais",
             "btn": "1",
             "btn_text": ""
           }
