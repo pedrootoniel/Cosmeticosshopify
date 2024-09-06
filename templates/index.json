@@ -355,7 +355,7 @@
           "settings": {
             "collection": "conjunto-cropped-e-calca-legging",
             "image": "shopify:\/\/shop_images\/banner-6_670x_279577c3-bbf9-4c90-89f1-3f958f33f55a.jpg",
-            "title": "Equipamentos Fitness",
+            "title": "Equipamentos",
             "text": "Acessórios de fitness, fones de ouvido, monitores de frequência cardíaca e muito mais",
             "btn": "1",
             "btn_text": ""
@@ -779,6 +779,7 @@
         "c10befa7-d650-4321-88ee-d9fe16a1c70b",
         "0f5891b1-9317-4512-9de5-faedd0f64388"
       ],
+      "disabled": true,
       "settings": {
         "show_featured_brand": true,
         "layout_style": "2",
